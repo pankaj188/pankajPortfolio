@@ -26,7 +26,7 @@ const greeting = {
     "Software Engineer with 1+ year of experience in Software Development, Seeking full-time Software Development roles. 🚀 "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1LjbjrnZdtfAtMvx4YSDlkrjABEyl7N3w/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/13ITKsz4pBd0Fzb3STdqJKMIq371YaruY/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
